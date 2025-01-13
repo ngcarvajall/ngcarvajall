@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Nelson Carvajal  
-**Dominican | Psychologist turned Data Scientist | Storyteller with Data**  
+**Dominican 🇩🇴 | Psychologist turned Data Scientist | Storyteller with Data**  
 
 - 🔍 **Interests**:  
   - Leveraging data to uncover insights in **Sports**, **Education**, and **Business**.  
