@@ -40,11 +40,6 @@ Transitioning from psychology to data science has taught me that the power of da
 
 ![Ngcarvajall's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngcarvajall&show_icons=true&theme=radical)
 
-## 📌 Pinned Repositories
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngcarvajall&show_icons=true&theme=dark)](https://github.com/ngcarvajall/Accidentes_mortales_RD)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngcarvajall&show_icons=true&theme=dark)](https://github.com/ngcarvajall/GOAT_Debate_JordanvsLeBron)
-
 <!---
 ngcarvajall/ngcarvajall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
